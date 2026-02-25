@@ -1,0 +1,13 @@
+{
+  "id": "client-editor",
+  "name": "Client Editor",
+  "version": "0.1.0",
+  "description": "A Ship Studio plugin for editing client details",
+  "slots": ["toolbar"],
+  "author": "Julian Galluzzo",
+  "repository": "https://github.com/ship-studio/plugin-client-editor",
+  "min_app_version": "0.3.53",
+  "icon": "",
+  "required_commands": [],
+  "api_version": 1
+}
